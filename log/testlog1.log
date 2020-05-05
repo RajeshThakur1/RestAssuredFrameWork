@@ -1,0 +1,10 @@
+2020-05-05 20:06:21,991 [main] INFO testng.SampleGet - FrameWork Initilized
+2020-05-05 20:06:23,967 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-05 20:06:23,976 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-05 20:06:24,330 [main] WARN testng.SampleGet - This is only for showing the Warning Message 
+2020-05-05 20:06:24,331 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-05 20:08:21,437 [main] INFO testng.SampleGet - FrameWork Initilized
+2020-05-05 20:08:24,698 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-05 20:08:24,706 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-05 20:08:25,103 [main] WARN testng.SampleGet - This is only for showing the Warning Message 
+2020-05-05 20:08:25,103 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
