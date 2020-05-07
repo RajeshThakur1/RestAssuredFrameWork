@@ -8,3 +8,34 @@
 2020-05-05 20:08:24,706 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
 2020-05-05 20:08:25,103 [main] WARN testng.SampleGet - This is only for showing the Warning Message 
 2020-05-05 20:08:25,103 [main] INFO testng.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 19:53:07,505 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 19:54:00,671 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 19:56:20,507 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 19:58:57,392 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:03:29,928 [main] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2020-05-07 20:03:31,645 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:03:31,653 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:03:32,014 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:05:09,378 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:05:11,635 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:05:11,644 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:05:11,655 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:06:31,066 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:06:33,639 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:06:33,647 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:06:33,655 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:09:40,426 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:09:43,586 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:09:43,594 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:09:44,010 [main] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-07 20:09:44,015 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:10:46,580 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:10:48,691 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:10:48,699 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:10:49,097 [main] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-07 20:10:49,103 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:11:24,736 [main] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-07 20:11:27,036 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-07 20:11:27,044 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-07 20:11:27,455 [main] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-07 20:11:27,460 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
