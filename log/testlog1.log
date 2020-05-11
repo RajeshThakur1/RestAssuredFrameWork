@@ -39,3 +39,34 @@
 2020-05-07 20:11:27,044 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
 2020-05-07 20:11:27,455 [main] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
 2020-05-07 20:11:27,460 [main] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-08 00:39:47,434 [main] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2020-05-08 00:39:51,366 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-08 00:39:51,371 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-08 00:39:51,820 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:29,690 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2020-05-11 20:37:32,086 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:32,092 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:32,610 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:32,614 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-11 20:37:33,616 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:33,619 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:37:33,636 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-11 20:37:33,639 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:33,190 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2020-05-11 20:46:34,692 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:34,714 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:35,148 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:35,151 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-11 20:46:36,056 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:36,059 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:46:36,077 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-11 20:46:36,080 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:31,458 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2020-05-11 20:49:32,948 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:32,966 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:33,361 [TestNG-tests-1] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:33,364 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - FrameWork Initilized
+2020-05-11 20:49:34,336 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:34,342 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2020-05-11 20:49:34,359 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
+2020-05-11 20:49:34,362 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@

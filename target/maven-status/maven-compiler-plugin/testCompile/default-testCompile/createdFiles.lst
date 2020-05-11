@@ -1,0 +1,7 @@
+com/companyName/TestCases/SampleGet.class
+testng/TestClass.class
+com/companyName/TestCases/SamplePostRequest.class
+testng/SampleGet.class
+utills/Property.class
+testng/Basic_TestNG.class
+com/companyName/BasePack/TestBase.class

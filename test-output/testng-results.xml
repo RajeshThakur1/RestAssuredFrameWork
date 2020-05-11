@@ -1,29 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2745" started-at="2020-05-07T14:41:24Z" finished-at="2020-05-07T14:41:27Z">
+  <suite name="BackendTesting" duration-ms="3048" started-at="2020-05-11T15:19:31Z" finished-at="2020-05-11T15:19:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2745" started-at="2020-05-07T14:41:24Z" finished-at="2020-05-07T14:41:27Z">
+    <test name="Niki Beckend Services" duration-ms="3048" started-at="2020-05-11T15:19:31Z" finished-at="2020-05-11T15:19:34Z">
       <class name="com.companyName.TestCases.SamplePostRequest">
-        <test-method status="PASS" signature="samplePostCall()[pri:0, instance:com.companyName.TestCases.SamplePostRequest@3444d69d]" name="samplePostCall" is-config="true" duration-ms="2287" started-at="2020-05-07T14:41:24Z" finished-at="2020-05-07T14:41:27Z">
+        <test-method status="PASS" signature="samplePostCall()[pri:0, instance:com.companyName.TestCases.SamplePostRequest@1445d7f]" name="samplePostCall" is-config="true" duration-ms="970" started-at="2020-05-11T15:19:33Z" finished-at="2020-05-11T15:19:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- samplePostCall -->
-        <test-method status="PASS" signature="verifyStatusCode()[pri:1, instance:com.companyName.TestCases.SamplePostRequest@3444d69d]" name="verifyStatusCode" duration-ms="12" started-at="2020-05-07T14:41:27Z" finished-at="2020-05-07T14:41:27Z">
+        <test-method status="PASS" signature="verifyStatusCode()[pri:0, instance:com.companyName.TestCases.SamplePostRequest@1445d7f]" name="verifyStatusCode" duration-ms="2" started-at="2020-05-11T15:19:34Z" finished-at="2020-05-11T15:19:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStatusCode -->
-        <test-method status="PASS" signature="checkBody()[pri:2, instance:com.companyName.TestCases.SamplePostRequest@3444d69d]" name="checkBody" duration-ms="414" started-at="2020-05-07T14:41:27Z" finished-at="2020-05-07T14:41:27Z">
+        <test-method status="PASS" signature="checkBody()[pri:0, instance:com.companyName.TestCases.SamplePostRequest@1445d7f]" name="checkBody" duration-ms="22" started-at="2020-05-11T15:19:34Z" finished-at="2020-05-11T15:19:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkBody -->
-        <test-method status="PASS" signature="check_responseTime()[pri:3, instance:com.companyName.TestCases.SamplePostRequest@3444d69d]" name="check_responseTime" duration-ms="2" started-at="2020-05-07T14:41:27Z" finished-at="2020-05-07T14:41:27Z">
+        <test-method status="PASS" signature="check_responseTime()[pri:0, instance:com.companyName.TestCases.SamplePostRequest@1445d7f]" name="check_responseTime" duration-ms="2" started-at="2020-05-11T15:19:34Z" finished-at="2020-05-11T15:19:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- check_responseTime -->
       </class> <!-- com.companyName.TestCases.SamplePostRequest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.companyName.TestCases.SampleGet">
+        <test-method status="PASS" signature="sampleGetCall()[pri:0, instance:com.companyName.TestCases.SampleGet@80ec1f8]" name="sampleGetCall" is-config="true" duration-ms="1481" started-at="2020-05-11T15:19:31Z" finished-at="2020-05-11T15:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleGetCall -->
+        <test-method status="PASS" signature="verifyStatusCode()[pri:0, instance:com.companyName.TestCases.SampleGet@80ec1f8]" name="verifyStatusCode" duration-ms="10" started-at="2020-05-11T15:19:32Z" finished-at="2020-05-11T15:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCode -->
+        <test-method status="PASS" signature="checkBody()[pri:0, instance:com.companyName.TestCases.SampleGet@80ec1f8]" name="checkBody" duration-ms="389" started-at="2020-05-11T15:19:32Z" finished-at="2020-05-11T15:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBody -->
+        <test-method status="PASS" signature="check_responseTime()[pri:0, instance:com.companyName.TestCases.SampleGet@80ec1f8]" name="check_responseTime" duration-ms="3" started-at="2020-05-11T15:19:33Z" finished-at="2020-05-11T15:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_responseTime -->
+      </class> <!-- com.companyName.TestCases.SampleGet -->
+    </test> <!-- Niki Beckend Services -->
+  </suite> <!-- BackendTesting -->
 </testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BackendTesting" parallel="tests" verbose="10">
+
+
+ <listeners>
+	<listener class-name="utills.Reporting" />
+
+</listeners>
+
+
+	<test name="Niki Beckend Services">
+
+		<classes>
+			<class name="com.companyName.TestCases.SampleGet">
+				<methods>
+					<include name="verifyStatusCode" />
+					<include name="checkBody" />
+					<include name="check_responseTime" />
+
+				</methods>
+
+
+
+			</class>
+
+			<class name="com.companyName.TestCases.SamplePostRequest">
+			
+			<methods>
+					<include name="verifyStatusCode" />
+					<include name="checkBody" />
+					<include name="check_responseTime" />
+
+				</methods>
+			
+			
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

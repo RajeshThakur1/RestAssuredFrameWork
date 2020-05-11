@@ -17,6 +17,8 @@ public class TestBase {
 		PropertyConfigurator.configure("log4j.properties");
 		log=Logger.getLogger(this.getClass());
 		Logger.getRootLogger().setLevel(org.apache.log4j.Level.INFO);
+		
+		
 	}
 	
 	

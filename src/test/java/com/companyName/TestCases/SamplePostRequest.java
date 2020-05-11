@@ -1,5 +1,7 @@
 package com.companyName.TestCases;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import java.util.HashMap;
 
 import org.testng.annotations.BeforeClass;
@@ -14,7 +16,7 @@ import io.restassured.path.json.JsonPath;
 
 public class SamplePostRequest extends TestBase{
 
-	@BeforeTest
+	@BeforeClass
 	public void samplePostCall() {
 		InitilizeFrameWork();
 		RestAssured.baseURI= baseURI;    // As the BaseURI is the Static one so we can call directlly with help of class
@@ -29,17 +31,17 @@ public class SamplePostRequest extends TestBase{
 	}
 
 	
-	@Test(priority = 1)
+	@Test
 	public void verifyStatusCode() {
 		SoftAssert soft = new SoftAssert();
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@");
 		log.info("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@");
 		int statusCode=response.getStatusCode();
-		soft.assertEquals(statusCode, 201);
+		AssertJUnit.assertEquals(statusCode, 201);
 		soft.assertAll();
 	}
 	
-	@Test(priority = 2)
+	@Test
 	
 	public void checkBody() {
 		//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@");
@@ -52,8 +54,8 @@ public class SamplePostRequest extends TestBase{
 		String job = jsonPathEvaluator.get("job");
 		// If in case isf you want to validate the more pameters u can do 
 		
-		soft.assertEquals(name, "Rajesh");
-		soft.assertEquals(job, "leader");
+		AssertJUnit.assertEquals(name, "Rajesh");
+		AssertJUnit.assertEquals(job, "leader");
 		
 		log.info("User has created Successfully");
 		soft.assertAll();
@@ -61,7 +63,7 @@ public class SamplePostRequest extends TestBase{
 		
 	}
 	
-	@Test(priority = 3)
+	@Test
 	public void check_responseTime() {
 		//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		log.info("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@");

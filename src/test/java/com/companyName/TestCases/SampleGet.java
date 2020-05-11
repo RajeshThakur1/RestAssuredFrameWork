@@ -1,5 +1,8 @@
 package com.companyName.TestCases;
 
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeClass;
+import org.testng.AssertJUnit;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -25,17 +28,17 @@ public class SampleGet extends TestBase{
 	}
 	
 	
-	@Test(priority = 1)
+	@Test
 	public void verifyStatusCode() {
 		SoftAssert soft = new SoftAssert();
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@");
 		log.info("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@");
 		int statusCode=response.getStatusCode();
-		soft.assertEquals(statusCode, 200);
+		AssertJUnit.assertEquals(statusCode, 200);
 		soft.assertAll();
 	}
 	
-	@Test(priority = 2)
+	@Test
 	
 	public void checkBody() {
 		//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@");
@@ -48,14 +51,14 @@ public class SampleGet extends TestBase{
 		
 		// If in case isf you want to validate the more pameters u can do 
 		
-		soft.assertEquals(page_value, 1);
+		AssertJUnit.assertEquals(page_value, 1);
 		
 		soft.assertAll();
 		
 		
 	}
 	
-	@Test(priority = 3)
+	@Test
 	public void check_responseTime() {
 		//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		log.info("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@");
