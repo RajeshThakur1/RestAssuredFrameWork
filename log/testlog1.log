@@ -70,3 +70,14 @@
 2020-05-11 20:49:34,342 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
 2020-05-11 20:49:34,359 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - User has created Successfully
 2020-05-11 20:49:34,362 [TestNG-tests-1] INFO com.companyName.TestCases.SamplePostRequest - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2021-11-13 09:29:51,083 [main] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2021-11-13 09:31:20,548 [main] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2021-11-13 09:31:57,059 [main] INFO com.companyName.TestCases.SampleGet - FrameWork Initilized
+2021-11-13 09:31:59,852 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@  Checking the Response Body @@@@@@@@@@@@@@@@@@@
+2021-11-13 09:32:00,086 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Checking the response Time @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2021-11-13 09:32:00,087 [main] INFO com.companyName.TestCases.SampleGet - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2021-11-13 10:13:37,544 [main] INFO com.companyName.TestCases.Login - FrameWork Initilized
+2021-11-13 10:48:02,696 [main] INFO com.companyName.TestCases.Login - FrameWork Initilized
+2021-11-13 10:48:06,910 [main] INFO com.companyName.TestCases.Login - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@
+2021-11-13 10:54:21,180 [main] INFO com.companyName.TestCases.Login - FrameWork Initilized
+2021-11-13 10:54:23,868 [main] INFO com.companyName.TestCases.Login - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   Checking the status code  @@@@@@@@@@@@@@@@@@@@@

@@ -12,28 +12,12 @@
 	<test name="Niki Beckend Services">
 
 		<classes>
-			<class name="com.companyName.TestCases.SampleGet">
+			<class name="com.companyName.TestCases.Login">
 				<methods>
 					<include name="verifyStatusCode" />
-					<include name="checkBody" />
-					<include name="check_responseTime" />
 
 				</methods>
 
-
-
-			</class>
-
-			<class name="com.companyName.TestCases.SamplePostRequest">
-			
-			<methods>
-					<include name="verifyStatusCode" />
-					<include name="checkBody" />
-					<include name="check_responseTime" />
-
-				</methods>
-			
-			
 			</class>
 
 		</classes>

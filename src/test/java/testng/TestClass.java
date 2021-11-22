@@ -11,7 +11,7 @@ public class TestClass {
 	@Test
 	public void testMethod() {
 		//Property prop = new Property();
-		String filePath = "/home/rajesh/eclipse-workspace/BackendTesting/Config/config.properties";
+		String filePath = "/Users/rajesh/Desktop/rajesh/RestAssuredFrameWork/Config/config.properties";
 		String baseURI=Property.getPropertyValue(filePath, "baseURI");
 		System.out.println(baseURI);
 

@@ -22,7 +22,7 @@ public class TestBase {
 	}
 	
 	
-	String filePath = "/home/rajesh/eclipse-workspace/BackendTesting/Config/config.properties";
+	String filePath = "/Users/rajesh/Desktop/rajesh/RestAssuredFrameWork/Config/config.properties";
 	
 	
 	public void InitilizeFrameWork() {
